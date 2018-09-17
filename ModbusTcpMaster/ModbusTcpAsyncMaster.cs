@@ -2,7 +2,7 @@
 using System.Net;
 using System.Net.Sockets;
 
-namespace MobusTcpClient
+namespace MobusMaster
 {
     public class ModbusTcpAsyncMaster
     {

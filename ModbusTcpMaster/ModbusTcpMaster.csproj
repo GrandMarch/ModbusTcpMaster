@@ -7,8 +7,8 @@
     <ProjectGuid>{2BB6B05D-DADE-4DF4-BE95-75392B2362F4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ModbusTcpMaster</RootNamespace>
-    <AssemblyName>ModbusTcpMaster</AssemblyName>
+    <RootNamespace>ModbusMaster</RootNamespace>
+    <AssemblyName>ModbusMaster</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
